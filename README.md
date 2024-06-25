@@ -24,6 +24,8 @@ This is The Guide ...
 - [Vexlaak](https://www.vexlaak.com/)
 - [Coincards](https://coincards.com/)
     - [Coincards](https://twitter.com/CoinCards)
+- [Bitrefill](https://www.bitrefill.com/us/en/)
+    - [Bitrefill - twitter](https://twitter.com/bitrefill)
 
 ### Blogs
 
@@ -39,6 +41,8 @@ This is The Guide ...
 
 - [Lightning Network Stores](https://lightningnetworkstores.com/)
     - [Lightning Network Stores](https://twitter.com/bitcoinLNS)
+- [ShopinBit](https://shopinbit.com/)
+    - [ShopinBit - twitter](https://twitter.com/shopinbit)
 
 #### Monero
 
@@ -58,6 +62,11 @@ This is The Guide ...
 - [The Whole Bitcoin](https://thebitcoinhole.com/)
     - [The Whole Bitcoin - twitter](https://twitter.com/thebitcoinhole)
 
+### Hardware
+
+- [BitMaker | Bitronics](https://bitronics.store/)
+    - [BitMaker - twitter](https://twitter.com/BitMaker_)
+
 ### Meetups
 
 - [2140 Meetups](https://2140meetups.com/)
@@ -70,3 +79,7 @@ This is The Guide ...
 - [Startpage](https://www.startpage.com/)
     - [Startpage - twitter](https://twitter.com/startpage)
 
+### Maps
+
+- [BTC Maps](https://btcmap.org/)
+    - [BTC Maps - twitter](https://twitter.com/btcmap)
