@@ -34,6 +34,13 @@ This is The Guide ...
     - [AlternativeTo - twitter](https://twitter.com/AlternativeTo)
 - [Restore Privacy](https://restoreprivacy.com/)
     - [Restore Privacy - twitter](https://twitter.com/ResPrivacy)
+- [Desobediente Tecnológico](https://desobedientetecnologico.gitlab.io/blog/)
+    - [Desobediente Tecnológico - twitter](https://twitter.com/DesobedienteTec)
+
+
+### Bitcoin Knowledge
+
+- [Estudio Bitcoin](https://estudiobitcoin.com/)
 
 ### Stores
 
@@ -83,3 +90,17 @@ This is The Guide ...
 
 - [BTC Maps](https://btcmap.org/)
     - [BTC Maps - twitter](https://twitter.com/btcmap)
+
+### Wikis, Guides & Documentation
+
+- [Lightning Wiki](https://lightningwiki.net/index.php?title=Main_Page)
+    - [Lightning Wiki - twitter](https://twitter.com/LightningWiki)
+
+### Twitter Accounts
+
+- [Seth For Privacy - sethforprivacy](https://twitter.com/sethforprivacy)
+- [Marconius Solidus - M_Solidus](https://twitter.com/M_Solidus)
+- [Arkad - Multicripto](https://twitter.com/Multicripto)
+- [ChavoTheGrower - @ChavoGnuGrowers](https://twitter.com/ChavoGnuGrowers)
+- [Stark - StarkPrivacy](https://twitter.com/StarkPrivacy)
+- [Sooraj Sathyanarayanan - @iAnonymous3000](https://twitter.com/iAnonymous3000)
