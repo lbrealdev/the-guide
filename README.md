@@ -39,3 +39,9 @@ This is The Guide ...
 
 - [XMRBazaar](https://xmrbazaar.com/)
 
+
+### Hosting solutions
+
+- [Mynymbox](https://mynymbox.io/)
+    - [Mynymbox - twitter account](https://twitter.com/mynymbox)
+
