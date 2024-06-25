@@ -101,6 +101,6 @@ This is The Guide ...
 - [Seth For Privacy - sethforprivacy](https://twitter.com/sethforprivacy)
 - [Marconius Solidus - M_Solidus](https://twitter.com/M_Solidus)
 - [Arkad - Multicripto](https://twitter.com/Multicripto)
-- [ChavoTheGrower - @ChavoGnuGrowers](https://twitter.com/ChavoGnuGrowers)
+- [ChavoTheGrower - ChavoGnuGrowers](https://twitter.com/ChavoGnuGrowers)
 - [Stark - StarkPrivacy](https://twitter.com/StarkPrivacy)
-- [Sooraj Sathyanarayanan - @iAnonymous3000](https://twitter.com/iAnonymous3000)
+- [Sooraj Sathyanarayanan - iAnonymous3000](https://twitter.com/iAnonymous3000)
