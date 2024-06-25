@@ -20,3 +20,13 @@ This is The Guide ...
 - [Privacy Tests](https://privacytests.org/)
     - [Privacy Tests - twitter account](https://twitter.com/privacytests)
 
+
+### Services
+
+- [Vexlaak](https://www.vexlaak.com/)
+
+
+### Blogs
+
+- [TFTC](https://www.tftc.io/)
+
