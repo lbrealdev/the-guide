@@ -103,4 +103,5 @@ This is The Guide ...
 - [Arkad - Multicripto](https://twitter.com/Multicripto)
 - [ChavoTheGrower - ChavoGnuGrowers](https://twitter.com/ChavoGnuGrowers)
 - [Stark - StarkPrivacy](https://twitter.com/StarkPrivacy)
+- [Pavol Lupták - wilderko](https://twitter.com/wilderko)
 - [Sooraj Sathyanarayanan - iAnonymous3000](https://twitter.com/iAnonymous3000)
