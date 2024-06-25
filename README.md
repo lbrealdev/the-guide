@@ -25,8 +25,17 @@ This is The Guide ...
 
 - [Vexlaak](https://www.vexlaak.com/)
 
-
 ### Blogs
 
 - [TFTC](https://www.tftc.io/)
+
+### Stores
+
+#### Bitcoin
+
+// to do
+
+#### Monero
+
+- [XMRBazaar](https://xmrbazaar.com/)
 
