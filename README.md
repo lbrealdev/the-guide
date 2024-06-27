@@ -96,6 +96,10 @@ This is The Guide ...
 - [Lightning Wiki](https://lightningwiki.net/index.php?title=Main_Page)
     - [Lightning Wiki - twitter](https://twitter.com/LightningWiki)
 
+### Android
+
+- [Exodus Privacy](https://exodus-privacy.eu.org/en/)
+
 ### Twitter Accounts
 
 - [Seth For Privacy - sethforprivacy](https://twitter.com/sethforprivacy)
