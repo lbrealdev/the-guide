@@ -69,6 +69,10 @@ This is The Guide ...
 - [The Whole Bitcoin](https://thebitcoinhole.com/)
     - [The Whole Bitcoin - twitter](https://twitter.com/thebitcoinhole)
 
+### Node config app
+
+- [Monero Suite](https://monerosuite.org/)
+
 ### Hardware
 
 - [BitMaker | Bitronics](https://bitronics.store/)
@@ -106,6 +110,7 @@ This is The Guide ...
 - [Marconius Solidus - M_Solidus](https://twitter.com/M_Solidus)
 - [Arkad - Multicripto](https://twitter.com/Multicripto)
 - [ChavoTheGrower - ChavoGnuGrowers](https://twitter.com/ChavoGnuGrowers)
+- [Gabriel Custodiet - WatchmanPrivacy](https://twitter.com/WatchmanPrivacy)
 - [Stark - StarkPrivacy](https://twitter.com/StarkPrivacy)
 - [Pavol Lupták - wilderko](https://twitter.com/wilderko)
 - [Sooraj Sathyanarayanan - iAnonymous3000](https://twitter.com/iAnonymous3000)
