@@ -11,3 +11,8 @@
     - [Silent Link - twitter](https://twitter.com/silentlink1)
 - [JMP](https://jmp.chat/)
     - [JMP - twitter](https://twitter.com/JMP_chat)
+
+### OpenSource Apps
+
+- [Organic Maps](https://organicmaps.app/)
+    - [Organic Maps - twitter](https://x.com/OrganicMapsApp)
