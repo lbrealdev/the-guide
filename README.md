@@ -106,6 +106,10 @@ This is The Guide ...
 
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
 
+### DeleteMe Services
+
+- [justdelete.me](https://backgroundchecks.org/justdeleteme/)
+
 ### Twitter Accounts
 
 - [Seth For Privacy - sethforprivacy](https://twitter.com/sethforprivacy)
