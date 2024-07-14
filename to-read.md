@@ -9,3 +9,7 @@
 ### De-Google things in your life
 
 - [How (and why) to de-Google your life and protect your privacy](https://proton.me/blog/how-to-de-google)
+
+### Buy Online
+
+- [Anonshop.app Recommendation](https://samhsmith.com/anonshop.app-recommendation/)
