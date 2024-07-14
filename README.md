@@ -58,6 +58,10 @@ This is The Guide ...
 - [XMRBazaar](https://xmrbazaar.com/)
 - [Monezon](https://monezon.com/)
     - [Monezon - twitter](https://twitter.com/atMonezon)
+- [Anonshop](https://anonshop.app/)
+    - [Anonshop - twitter](https://twitter.com/AnonIndustries_)
+- [Peershop](https://peershop.app/)
+    - [Peershop - twitter](https://twitter.com/AnonIndustries_)
 
 ### Hosting solutions
 
@@ -109,6 +113,10 @@ This is The Guide ...
 ### DeleteMe Services
 
 - [justdelete.me](https://backgroundchecks.org/justdeleteme/)
+
+### No KYC services
+
+- [KYC not me](https://kycnot.me/)
 
 ### Twitter Accounts
 
