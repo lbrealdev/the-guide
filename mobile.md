@@ -16,6 +16,14 @@
     - [Silent Link - twitter](https://twitter.com/silentlink1)
 - [JMP](https://jmp.chat/)
     - [JMP - twitter](https://twitter.com/JMP_chat)
+- [XKODE](https://xkode.io/)
+- [KeepGo](https://www.keepgo.com/)
+- [SMSPool](https://www.smspool.net/)
+- [JuicySMS](https://juicysms.com/)
+- [SMSpva](https://smspva.com/)
+- [Hushed](https://hushed.com/)
+- [Crypton](https://crypton.sh/)
+- [MoneroSMS](https://monerosms.com/)
 
 ### OpenSource Apps
 

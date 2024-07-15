@@ -13,6 +13,8 @@ This is The Guide ...
     - [Privacy Tools - twitter account](https://twitter.com/privacytoolsIO)
 - [Privacy Guides](https://www.privacyguides.org/en/)
     - [Privacy Guides - twitter account](https://twitter.com/privacy_guides)
+- [Awesome Privacy](https://awesome-privacy.xyz/)
+    - [Awesome Privacy - repository](https://github.com/lissy93/awesome-privacy)
 
 ### Privacy testing
 
