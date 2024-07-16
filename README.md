@@ -13,6 +13,8 @@ This is The Guide ...
     - [Privacy Tools - twitter account](https://twitter.com/privacytoolsIO)
 - [Privacy Guides](https://www.privacyguides.org/en/)
     - [Privacy Guides - twitter account](https://twitter.com/privacy_guides)
+- [Awesome Privacy](https://awesome-privacy.xyz/)
+    - [Awesome Privacy - repository](https://github.com/lissy93/awesome-privacy)
 
 ### Privacy testing
 
@@ -44,7 +46,7 @@ This is The Guide ...
 
 - [Estudio Bitcoin](https://estudiobitcoin.com/)
 
-### Stores
+### Stores and serives
 
 #### Bitcoin / LN
 
@@ -52,6 +54,8 @@ This is The Guide ...
     - [Lightning Network Stores](https://twitter.com/bitcoinLNS)
 - [ShopinBit](https://shopinbit.com/)
     - [ShopinBit - twitter](https://twitter.com/shopinbit)
+- [Airbtc](https://airbtc.online/)
+    - [Airbtc - twitter](https://x.com/airbtconline)
 
 #### Monero
 
