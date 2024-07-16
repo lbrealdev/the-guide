@@ -3,6 +3,7 @@
 ### Bitcoin
 
 - [Bitcoin Seed Security Analysis](https://blog.lopp.net/bitcoin-seed-security-analysis/)
+- [BW](https://www.borderwallets.com/)
 
 ### Browser
 
@@ -16,3 +17,7 @@
 ### Buy Online
 
 - [Anonshop.app Recommendation](https://samhsmith.com/anonshop.app-recommendation/)
+
+### Privacy 
+
+- [Phone and Laptop Seizures at Airports and Borders - Privacy Travel Guide](https://privacytools.io/guides/phone-and-laptop-seizures-at-airports-and-borders)
