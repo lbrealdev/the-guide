@@ -46,7 +46,7 @@ This is The Guide ...
 
 - [Estudio Bitcoin](https://estudiobitcoin.com/)
 
-### Stores
+### Stores and serives
 
 #### Bitcoin / LN
 
@@ -54,6 +54,8 @@ This is The Guide ...
     - [Lightning Network Stores](https://twitter.com/bitcoinLNS)
 - [ShopinBit](https://shopinbit.com/)
     - [ShopinBit - twitter](https://twitter.com/shopinbit)
+- [Airbtc](https://airbtc.online/)
+    - [Airbtc - twitter](https://x.com/airbtconline)
 
 #### Monero
 
