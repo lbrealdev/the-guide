@@ -21,3 +21,7 @@
 ### Privacy 
 
 - [Phone and Laptop Seizures at Airports and Borders - Privacy Travel Guide](https://privacytools.io/guides/phone-and-laptop-seizures-at-airports-and-borders)
+
+### Self-hosting
+
+- [Self Hosting 101 - A Beginner's Guide](https://ente.io/blog/self-hosting-101/)
