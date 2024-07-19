@@ -30,6 +30,8 @@
 - [Organic Maps](https://organicmaps.app/)
     - [Organic Maps - twitter](https://x.com/OrganicMapsApp)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
+- [SaverTuner](https://codeberg.org/s1m/savertuner)
+- [Grayjay](https://grayjay.app/)
     
 ### Wikis
 

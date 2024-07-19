@@ -11,3 +11,8 @@
 ### Bitcoin Dev
 
 - [The Bitcoin Dev Project](https://bitcoindevs.xyz/)
+
+### Bitcoin Network
+
+- [Bitcoin Uptime](https://bitcoinuptime.org/)
+- [Stratum Work](https://stratum.work/)
