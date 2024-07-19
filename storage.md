@@ -9,6 +9,7 @@
 
 - [ente](https://ente.io/)
     - [ente - github](https://github.com/ente-io/ente)
+- [Free and OpenSource Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)
 
 ### Encrypted cloud storage
 

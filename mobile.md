@@ -31,3 +31,6 @@
     - [Organic Maps - twitter](https://x.com/OrganicMapsApp)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
     
+### Wikis
+
+- [switch-to-signal](https://github.com/iAnonymous3000/switch-to-signal)
