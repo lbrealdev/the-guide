@@ -5,7 +5,6 @@
 - https://github.com/danoctavian/awesome-anti-censorship
 - https://github.com/croqaz/awesome-decentralized
 
+# OpenSource
 
-# Apps
-
-- https://ghostfol.io/en/start
+- https://github.com/iAnonymous3000/opensource-contribution-guide
