@@ -16,3 +16,5 @@
 
 - [Bitcoin Uptime](https://bitcoinuptime.org/)
 - [Stratum Work](https://stratum.work/)
+- [21 Ninja](https://21.ninja/)
+
