@@ -30,7 +30,15 @@
 - [Organic Maps](https://organicmaps.app/)
     - [Organic Maps - twitter](https://x.com/OrganicMapsApp)
 - [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-    
+- [SaverTuner](https://codeberg.org/s1m/savertuner)
+- [Grayjay](https://grayjay.app/)
+- [RiMusic](https://rimusic.xyz/)
+    - [RiMusic - github](https://github.com/fast4x/RiMusic)
+- [FreeTube](https://freetubeapp.io/)
+    - [FreeTube - github](https://github.com/FreeTubeApp/FreeTube)
+- [NewPipe](https://newpipe.net/)
+    - [NewPipe - github](https://github.com/TeamNewPipe/NewPipe)
+   
 ### Wikis
 
 - [switch-to-signal](https://github.com/iAnonymous3000/switch-to-signal)
