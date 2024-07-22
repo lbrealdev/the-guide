@@ -38,6 +38,10 @@
     - [FreeTube - github](https://github.com/FreeTubeApp/FreeTube)
 - [NewPipe](https://newpipe.net/)
     - [NewPipe - github](https://github.com/TeamNewPipe/NewPipe)
+- [AntennaPod](https://antennapod.org/)
+    - [AntennaPod - github](https://github.com/AntennaPod/AntennaPod)
+- [Spotube](https://spotube.krtirtho.dev/)
+    - [Spotube - github](https://github.com/KRTirtho/spotube)
    
 ### Wikis
 
