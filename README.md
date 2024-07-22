@@ -41,22 +41,6 @@ This is The Guide ...
 - [MYNYMBOX](https://blog.mynymbox.io/)
     - [MYNYMBOX - twitter](https://twitter.com/mynymbox)
 
-
-### Bitcoin Knowledge
-
-- [Estudio Bitcoin](https://estudiobitcoin.com/)
-
-### Stores and serives
-
-#### Bitcoin / LN
-
-- [Lightning Network Stores](https://lightningnetworkstores.com/)
-    - [Lightning Network Stores](https://twitter.com/bitcoinLNS)
-- [ShopinBit](https://shopinbit.com/)
-    - [ShopinBit - twitter](https://twitter.com/shopinbit)
-- [Airbtc](https://airbtc.online/)
-    - [Airbtc - twitter](https://x.com/airbtconline)
-
 #### Monero
 
 - [XMRBazaar](https://xmrbazaar.com/)
@@ -83,11 +67,6 @@ This is The Guide ...
 
 - [Monero Suite](https://monerosuite.org/)
 
-### Hardware
-
-- [BitMaker | Bitronics](https://bitronics.store/)
-    - [BitMaker - twitter](https://twitter.com/BitMaker_)
-
 ### Meetups
 
 - [2140 Meetups](https://2140meetups.com/)
@@ -100,16 +79,6 @@ This is The Guide ...
 - [Startpage](https://www.startpage.com/)
     - [Startpage - twitter](https://twitter.com/startpage)
 
-### Maps
-
-- [BTC Maps](https://btcmap.org/)
-    - [BTC Maps - twitter](https://twitter.com/btcmap)
-
-### Wikis, Guides & Documentation
-
-- [Lightning Wiki](https://lightningwiki.net/index.php?title=Main_Page)
-    - [Lightning Wiki - twitter](https://twitter.com/LightningWiki)
-
 ### Android
 
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
@@ -121,15 +90,3 @@ This is The Guide ...
 ### No KYC services
 
 - [KYC not me](https://kycnot.me/)
-
-### Twitter Accounts
-
-- [Seth For Privacy - sethforprivacy](https://x.com/sethforprivacy)
-- [Marconius Solidus - M_Solidus](https://x.com/M_Solidus)
-- [Arkad - Multicripto](https://x.com/Multicripto)
-- [ChavoTheGrower - ChavoGnuGrowers](https://x.com/ChavoGnuGrowers)
-- [Gabriel Custodiet - WatchmanPrivacy](https://x.com/WatchmanPrivacy)
-- [Stark - StarkPrivacy](https://x.com/StarkPrivacy)
-- [Pavol Lupták - wilderko](https://x.com/wilderko)
-- [Sooraj Sathyanarayanan - iAnonymous3000](https://x.com/iAnonymous3000)
-- [Alex Emidio - AlexEmidio7](https://x.com/AlexEmidio7)

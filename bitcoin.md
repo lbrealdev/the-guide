@@ -1,8 +1,12 @@
 # Bitcoin
 
-### Bitcoin Guides
+### Bitcoin & LN Guides
 
 - [Estudio Bitcoin](https://estudiobitcoin.com/)
+- [Bitcoin Help - Parman's FREE Guides](https://armantheparman.com/)
+    - [Parman - twitter](https://twitter.com/parman_the)
+- [Lightning Wiki](https://lightningwiki.net/index.php?title=Main_Page)
+    - [Lightning Wiki - twitter](https://twitter.com/LightningWiki)
 
 ### Bitcoin Stores
 
@@ -36,3 +40,12 @@
 
 - [BitMaker | Bitronics](https://bitronics.store/)
     - [BitMaker - twitter](https://twitter.com/BitMaker_)
+
+### Bitcoin Maps
+
+- [BTC Maps](https://btcmap.org/)
+    - [BTC Maps - twitter](https://twitter.com/btcmap)
+
+### Bitcoin Videos
+
+- [The Bitaxe Supra: start mining bitcoin today!](https://www.youtube.com/watch?v=InfDHmFQcsE)
