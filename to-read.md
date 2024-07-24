@@ -25,3 +25,7 @@
 ### Self-hosting
 
 - [Self Hosting 101 - A Beginner's Guide](https://ente.io/blog/self-hosting-101/)
+
+### Auth
+
+- [Migrating from Authy](https://help.ente.io/auth/migration-guides/authy/)

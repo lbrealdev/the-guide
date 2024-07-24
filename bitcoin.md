@@ -31,6 +31,7 @@
 
 ### Bitcoin Network
 
+- [Mempool](https://mempool.space/pt/)
 - [Bitcoin Uptime](https://bitcoinuptime.org/)
 - [Stratum Work](https://stratum.work/)
 - [21 Ninja](https://21.ninja/)
@@ -49,3 +50,7 @@
 ### Bitcoin Videos
 
 - [The Bitaxe Supra: start mining bitcoin today!](https://www.youtube.com/watch?v=InfDHmFQcsE)
+
+### Bitcoin Tools
+
+- [Bitcoin CounterFlow](https://bitcoincounterflow.com/)
