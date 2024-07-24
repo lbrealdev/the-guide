@@ -7,6 +7,7 @@
     - [Parman - twitter](https://twitter.com/parman_the)
 - [Lightning Wiki](https://lightningwiki.net/index.php?title=Main_Page)
     - [Lightning Wiki - twitter](https://twitter.com/LightningWiki)
+- [Bitcoin Optech](https://bitcoinops.org/)
 
 ### Bitcoin Stores
 
