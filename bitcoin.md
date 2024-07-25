@@ -17,6 +17,8 @@
     - [ShopinBit - twitter](https://twitter.com/shopinbit)
 - [Airbtc](https://airbtc.online/)
     - [Airbtc - twitter](https://x.com/airbtconline)
+- [Plebbin](https://plebbin.com/)
+    - [Plebbin - twitter](https://x.com/Plebbin_com)
 
 ### Bitcoin Data
 

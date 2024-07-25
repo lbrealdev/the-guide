@@ -22,6 +22,7 @@
 ### Privacy 
 
 - [Phone and Laptop Seizures at Airports and Borders - Privacy Travel Guide](https://privacytools.io/guides/phone-and-laptop-seizures-at-airports-and-borders)
+- [Privacy first steps](https://sethforprivacy.com/posts/privacy-first-steps/)
 
 ### Self-hosting
 
@@ -30,3 +31,7 @@
 ### Auth
 
 - [Migrating from Authy](https://help.ente.io/auth/migration-guides/authy/)
+
+### Tor networks
+
+- [Dark web: Building a Tor Gateway](https://cybernomad.online/dark-web-building-a-tor-gateway-7a7dfa45884f)

@@ -19,3 +19,7 @@
 ### Cloud utils
 
 - [cryptomator](https://cryptomator.org/)
+
+### Self-hosted
+
+- [Noted](https://noted.lol/)
