@@ -23,3 +23,8 @@
 
 - [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
     - [LibreTranslate - github](https://github.com/LibreTranslate/LibreTranslate)
+
+### Maps
+
+- [OpenStreetMap - The largest community-created geospatial project of all time.](https://www.openstreetmap.org/)
+    - [OpenStreetMap - twitter](https://github.com/openstreetmap/openstreetmap-website)
