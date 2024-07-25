@@ -40,8 +40,12 @@
 
 ### Bitcoin Hardware
 
+#### Mining
+
 - [BitMaker | Bitronics](https://bitronics.store/)
     - [BitMaker - twitter](https://twitter.com/BitMaker_)
+- [Altair - Bitcoin Mining Solution](https://altairtech.io/)
+    - [Altair - twitter](https://x.com/altair_tech)
 
 ### Bitcoin Maps
 
