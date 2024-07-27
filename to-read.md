@@ -10,6 +10,7 @@
 - [Huella digital del navegador – Qué es y cómo puedes evitar ser rastreado](https://achirou.com/huella-digital-del-navegador-que-es-y-como-puedes-evitar-ser-rastreado/)
 - [Los 10 navegadores más seguros para tu privacidad](https://achirou.com/los-10-navegadores-mas-seguro-para-tu-privacidad/)
 - [Best Private Browsers 2024 | Top 10 To Stop Trackers](https://tuta.com/blog/best-private-browsers)
+- [Brave-Hardening-Guide](https://github.com/gnukeith/Brave-Hardening-Guide)
 
 ### De-Google things in your life
 
@@ -22,6 +23,7 @@
 ### Privacy 
 
 - [Phone and Laptop Seizures at Airports and Borders - Privacy Travel Guide](https://privacytools.io/guides/phone-and-laptop-seizures-at-airports-and-borders)
+- [Privacy first steps](https://sethforprivacy.com/posts/privacy-first-steps/)
 
 ### Self-hosting
 
@@ -30,3 +32,7 @@
 ### Auth
 
 - [Migrating from Authy](https://help.ente.io/auth/migration-guides/authy/)
+
+### Tor networks
+
+- [Dark web: Building a Tor Gateway](https://cybernomad.online/dark-web-building-a-tor-gateway-7a7dfa45884f)

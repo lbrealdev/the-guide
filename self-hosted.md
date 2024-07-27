@@ -19,3 +19,8 @@
 ### Cloud utils
 
 - [cryptomator](https://cryptomator.org/)
+
+### Self-hosted
+
+- [Noted](https://noted.lol/)
+- [The Digital Den](https://thedigitalden.substack.com/)

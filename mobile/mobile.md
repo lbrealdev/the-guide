@@ -4,12 +4,6 @@
 
 - [Volla](https://volla.online/en/index.html)
 
-### GrapheneOS guides
-
-- [GrapheneOS - De-Google your phone and improve your privacy](https://bitcoiner.guide/grapheneos/)
-- [Instalación de GrapheneOS en un Google Pixel 7a](https://www.manelrodero.com/blog/instalacion-de-grapheneos-en-un-google-pixel-7a)
-- [Instalar Graphene OS en Google Pixel 6 en Menos de 10 Minutos – Privacidad Máxima #01](https://www.youtube.com/watch?v=KuE6ROGxp_A)
-
 ### Services
 
 - [Silent Link](https://silent.link/)
@@ -42,6 +36,13 @@
     - [AntennaPod - github](https://github.com/AntennaPod/AntennaPod)
 - [Spotube](https://spotube.krtirtho.dev/)
     - [Spotube - github](https://github.com/KRTirtho/spotube)
+- [Breezy Weather](https://f-droid.org/packages/org.breezyweather/)
+    - [Breezy Weather - github](https://github.com/breezy-weather/breezy-weather)
+
+### Android APK stores
+
+- [F-Droid](https://f-droid.org/en/)
+    - [F-Droid - GitLab](https://gitlab.com/fdroid)
    
 ### Wikis
 
