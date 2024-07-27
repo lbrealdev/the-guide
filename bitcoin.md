@@ -1,6 +1,6 @@
 # Bitcoin
 
-### Bitcoin & LN Guides
+### Bitcoin & LN Guides Websites
 
 - [Estudio Bitcoin](https://estudiobitcoin.com/)
 - [Bitcoin Help - Parman's FREE Guides](https://armantheparman.com/)
@@ -61,3 +61,18 @@
 ### Bitcoin Tools
 
 - [Bitcoin CounterFlow](https://bitcoincounterflow.com/)
+
+### Bitcoin Guides
+
+- [Setting up a Bitcoin username](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
+
+### Bitcoin Forums
+
+- [Delving Bitcoin](https://delvingbitcoin.org/)
+
+
+
+### TO READ
+
+- https://medium.com/@ottosch/how-silent-payments-work-41bea907d6b0
+

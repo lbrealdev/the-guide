@@ -23,6 +23,8 @@
 
 - [LibreTranslate - Free and Open Source Machine Translation API](https://libretranslate.com/)
     - [LibreTranslate - github](https://github.com/LibreTranslate/LibreTranslate)
+- [SimplyTranslate - A privacy friendly frontend for multiple Translation Websites.](https://simplytranslate.org/)
+    - [SimplyTranslate - twitter](https://codeberg.org/ManeraKai/simplytranslate/)
 
 ### Maps
 

@@ -23,3 +23,4 @@
 ### Self-hosted
 
 - [Noted](https://noted.lol/)
+- [The Digital Den](https://thedigitalden.substack.com/)

@@ -10,6 +10,7 @@
 - [Huella digital del navegador – Qué es y cómo puedes evitar ser rastreado](https://achirou.com/huella-digital-del-navegador-que-es-y-como-puedes-evitar-ser-rastreado/)
 - [Los 10 navegadores más seguros para tu privacidad](https://achirou.com/los-10-navegadores-mas-seguro-para-tu-privacidad/)
 - [Best Private Browsers 2024 | Top 10 To Stop Trackers](https://tuta.com/blog/best-private-browsers)
+- [Brave-Hardening-Guide](https://github.com/gnukeith/Brave-Hardening-Guide)
 
 ### De-Google things in your life
 
